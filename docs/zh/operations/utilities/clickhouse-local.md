@@ -3,11 +3,11 @@ toc_priority: 60
 toc_title: clickhouse-local
 ---
 
-# ﾂ环板-ｮﾂ嘉ｯﾂ偲 {#clickhouse-local}
+# clickhouse-local {#clickhouse-local}
 
 该 `clickhouse-local` 程序使您能够对本地文件执行快速处理，而无需部署和配置ClickHouse服务器。
 
-接受表示表的数据并使用以下方式查询它们 [ﾂ环板ECTｮﾂ嘉ｯﾂ偲](../../operations/utilities/clickhouse-local.md).
+接受表示表的数据并使用以下方式查询它们 [clickhouse-local](../../operations/utilities/clickhouse-local.md).
 
 `clickhouse-local` 使用与ClickHouse server相同的核心，因此它支持大多数功能以及相同的格式和表引擎。
 
